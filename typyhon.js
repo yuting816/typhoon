@@ -61,7 +61,7 @@ var lineLayer;
 //台风标志图层
 var marker
 var typhoonIcon = L.icon({
-    iconUrl: 'images/typhoon.png',
+    iconUrl: 'typhoon.png',
     iconSize: [28, 28],
     iconAnchor: [10, 10]
 });
